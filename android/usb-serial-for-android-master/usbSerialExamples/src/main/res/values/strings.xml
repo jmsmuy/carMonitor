@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_title">Motronic - Arduino Interface</string>
+    <string name="app_name">ECU Interface</string>
+    <string name="refreshing">Refreshing...</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">GaugeView</string>
+    <string name="RPM">RPM</string>
+    <string name="INJBNK2">MS</string>
+    <string name="INJBNK1">MS</string>
+    <string name="Motronic">Motronic</string>
+    <string name="AFM">AFM</string>
+    <string name="O2">AFR</string>
+    <string name="CTS">EngnTemp</string>
+    <string name="AIT">AirTemp</string>
+    <string name="Voltage">V</string>
+    <string name="SPD">KPH</string>
+    <string name="Pedal">PEDAL</string>
+    <string name="Idle">Idling</string>
+    <string name="Partial">Partial Throttle</string>
+    <string name="WOT">Wide open Throttle</string>
+    <string name="MS">ms</string>
+    <string name="BatVolt">BatVolt</string>
+    <string name="BANK2">InjBank2</string>
+    <string name="BANK1">InjBank1</string>
+    <string name="Malfunction">Malfunction</string>
+
+</resources>

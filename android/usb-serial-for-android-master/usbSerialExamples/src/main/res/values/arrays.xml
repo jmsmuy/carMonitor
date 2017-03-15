@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- GENERIC -->
+    <string-array name="ranges">
+        <item>16</item>
+        <item>25</item>
+        <item>40</item>
+        <item>250</item>
+    </string-array>
+
+    <string-array name="rangeColors">
+        <item>#E7202B</item>
+        <item>#E86F21</item>
+        <item>#E8E721</item>
+        <item>#1BCA21</item>
+    </string-array>
+
+    <!-- SPEEDO -->
+    <string-array name="rangesSpeed">
+        <item>45</item>
+        <item>75</item>
+        <item>120</item>
+        <item>250</item>
+    </string-array>
+
+    <string-array name="rangesSpeedColors">
+        <item>#1BCA21</item>
+        <item>#E8E721</item>
+        <item>#E86F21</item>
+        <item>#E7202B</item>
+    </string-array>
+
+    <!-- RPM -->
+    <string-array name="rangesRPM">
+        <item>60</item>
+        <item>70</item>
+    </string-array>
+
+    <string-array name="rangesRPMColors">
+        <item>#1BCA21</item>
+        <item>#E7202B</item>
+    </string-array>
+
+    <!-- STD -->
+    <string-array name="rangesSTD">
+        <item>1.5f</item>
+        <item>2.5f</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="rangesSTDColors">
+        <item>#1BCA21</item>
+        <item>#E8E721</item>
+        <item>#E7202B</item>
+    </string-array>
+
+    <!-- O2 -->
+    <string-array name="rangesO2">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="rangesO2Colors">
+        <item>#E7202B</item>
+        <item>#E8E721</item>
+        <item>#1BCA21</item>
+        <item>#E8E721</item>
+        <item>#E7202B</item>
+    </string-array>
+
+    <!-- TMPA -->
+    <string-array name="rangesTMP">
+        <item>1.5f</item>
+        <item>2.5f</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="rangesTMPColors">
+        <item>#E7202B</item>
+        <item>#E8E721</item>
+        <item>#1BCA21</item>
+    </string-array>
+
+    <!-- TMPA -->
+    <string-array name="rangesTMPA">
+        <item>1.5f</item>
+        <item>2.5f</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="rangesTMPAColors">
+        <item>#E7202B</item>
+        <item>#E8E721</item>
+        <item>#1BCA21</item>
+    </string-array>
+
+    <!-- INJ -->
+    <string-array name="rangesINJ">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="rangesINJColors">
+        <item>#1BCA21</item>
+        <item>#E8E721</item>
+        <item>#E86F21</item>
+        <item>#E7202B</item>
+    </string-array>
+
+    <!-- INJ -->
+    <string-array name="rangesVolt">
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="rangesVoltColors">
+        <item>#E7202B</item>
+        <item>#E8E721</item>
+        <item>#1BCA21</item>
+        <item>#E8E721</item>
+        <item>#E7202B</item>
+    </string-array>
+
+</resources>
